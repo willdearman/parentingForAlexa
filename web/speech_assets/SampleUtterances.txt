@@ -12,3 +12,7 @@ GetNewFactIntent give me some information
 GetNewFactIntent give me some space information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
+GetNewFactIntent dinner conversation topic
+GetNewFactIntent a topic
+GetNewFactIntent next topic
+GetNewFactIntent next one
